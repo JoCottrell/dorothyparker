@@ -1,1 +1,1 @@
-# dorothyparker
+# Dorothy Parker tribute
